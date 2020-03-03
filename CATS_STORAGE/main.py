@@ -1,4 +1,5 @@
 import csv
+import uuid
 from cats_in_memory import Cat
 from cats_in_memory import Cats
 
