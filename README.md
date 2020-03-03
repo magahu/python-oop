@@ -19,8 +19,7 @@ delete elements** (cat objects) **inside the list.**
 
 **3. CATS_STORAGE**
 
-This program is alike the last one but store cats in a **csv** file. Csv or comma separated values, is a way to create tables
-with columns separated by comma. 
+This program is alike the last one but store cats in a **csv** file (cats.csv). This allows to save cats one time and use them when you run the code in another time. Csv or comma separated values, is a way to create tables with columns separated by comma. 
 
 ![Cats storage](readme_screenshots/cats_storage.png "Cats storage")
 
